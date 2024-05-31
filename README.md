@@ -141,18 +141,16 @@ One should be able to code at least up to the complexity of Linked Lists.
     complex with multiple inputs/outputs)
 - FSMs
     - Serial 2’s complementer
-
-
-- Detect more than two 1’s in the last 3 samples
-- Pattern (Ex. 1011) detector - overlapping and non-overlapping case
+    - Detect more than two 1’s in the last 3 samples
+    - Pattern (Ex. 1011) detector - overlapping and non-overlapping case
 - Verilog
-- Detecting positive edge/negative edge/both
-- FIFO (Usually for experienced candidates)
-- Clock dividers (Divide by 2, 3, etc) with different duty cycle
+    - Detecting positive edge/negative edge/both
+    - FIFO (Usually for experienced candidates)
+    - Clock dividers (Divide by 2, 3, etc) with different duty cycle
 - CMOS
-- Which is faster - PMOS or NMOS? Why do we size them differently?
+    - Which is faster - PMOS or NMOS? Why do we size them differently?
 - Puzzles
-- Sometimes the interviewers end the round with some puzzle questions. One
+    - Sometimes the interviewers end the round with some puzzle questions. One
 such example question is - There are 25 horses with 5 race tracks. Each track
 can be used to race 5 horses. You don't have a watch. Find the minimum number
 of races needed to identify the top 3 fastest horses?
