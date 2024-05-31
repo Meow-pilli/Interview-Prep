@@ -1,42 +1,28 @@
 ## Table of contents
-
 #### Who is this for
-
 #### Read this before your interview day
-
 #### RTL Design
-
 #### Topics covered
-
 #### Some “gotchas”
-
 #### Some challenging interview questions
-
 #### Resources
+
+
 
 #### Design Verification
-
-#### Topics covered
-
-#### Some “gotchas”
-
-#### Some challenging interview questions
-
-#### Resources
+- Topics covered
+- Some “gotchas”
+- Some challenging interview questions
+- Resources
 
 #### Architecture / Performance modeling
-
-#### Topics covered
-
-#### Some “gotchas”
-
-#### Some challenging interview questions
-
-#### Resources
+- Topics covered
+- Some “gotchas”
+- Some challenging interview questions
+- Resources
 
 #### Some company specific insights
 
-#### Found this useful? Please fill out this survey as a “thank you”
 
 
 Just a disclaimer - like every other interview preparation resource, this is not exhaustive. Use
