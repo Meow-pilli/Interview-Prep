@@ -1,6 +1,6 @@
 ## Table of contents
 
-#### [Who is this for](https://github.com/Meow-pilli/Interview-Prep/tree/main?tab=readme-ov-file#who-is-this-for-1)
+#### [Who is this for](https://github.com/Meow-pilli/Interview-Prep/tree/main?tab=readme-ov-file#design-verification)
 
 #### [Read this before your interview day](https://github.com/Meow-pilli/Interview-Prep/tree/main?tab=readme-ov-file#read-this-before-your-interview-day-1)
 
