@@ -95,14 +95,12 @@ Involves the design/integration of digital logic modules that go into a chip or 
           documented in any STA book or tutorial - spend time to master this
     - Time borrowing (Especially if you are a grad student)
     - Metastability and how to deal with it
-
-
-- Know the basics for all interviews, but also learn about specifics like
+    - Know the basics for all interviews, but also learn about specifics like
     MTBF in case of clocking-related roles
 - C Programming
-- Basic C programming could be asked in both RTL design and verification roles.
-One should be able to code at least up to the complexity of Linked Lists.
-- Sorting is also commonly asked
+    - Basic C programming could be asked in both RTL design and verification roles.
+    One should be able to code at least up to the complexity of Linked Lists.
+        - Sorting is also commonly asked
 
 ### Some “gotchas”
 
