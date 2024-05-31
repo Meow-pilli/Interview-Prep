@@ -28,7 +28,7 @@
 #### [Some company specific insights](https://github.com/Meow-pilli/Interview-Prep/tree/main?tab=readme-ov-file#some-company-specific-insights-1)
 
 Just a disclaimer - like every other interview preparation resource, this is not exhaustive. Use
-this as a guide, but try to come up with customized plans for yourself.
+this as a guide, but try to come up with customized plans for yourself. 
 
 ## Who is this for
 
