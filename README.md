@@ -2,28 +2,28 @@
 
 #### [Who is this for](https://github.com/Meow-pilli/Interview-Prep/tree/main?tab=readme-ov-file#design-verification)
 
-#### [Read this before your interview day](https://github.com/Meow-pilli/Interview-Prep/tree/main?tab=readme-ov-file#read-this-before-your-interview-day-1)
+#### [Read this before your interview day](https://github.com/Meow-pilli/Interview-Prep/tree/main?tab=readme-ov-file#some-company-specific-insights)
 
-#### [RTL Design](https://github.com/Meow-pilli/Interview-Prep/tree/main?tab=readme-ov-file#rtl-design-1)
+#### [RTL Design](https://github.com/Meow-pilli/Interview-Prep/tree/main?tab=readme-ov-file#read-this-before-your-interview-day-1)
 
-* [Topics covered](https://github.com/Meow-pilli/Interview-Prep/tree/main?tab=readme-ov-file#topics-covered)
+* [Topics covered](https://github.com/Meow-pilli/Interview-Prep/tree/main?tab=readme-ov-file#rtl-design-1)
 * [Some “gotchas”](https://github.com/Meow-pilli/Interview-Prep/tree/main?tab=readme-ov-file#some-gotchas)
-* [Some challenging interview questions](https://github.com/Meow-pilli/Interview-Prep/tree/main?tab=readme-ov-file#some-challenging-interview-questions)
-* [Resources](https://github.com/Meow-pilli/Interview-Prep/tree/main?tab=readme-ov-file#resources)
+* [Some challenging interview questions](https://github.com/Meow-pilli/Interview-Prep/tree/main?tab=readme-ov-file#some-gotchas)
+* [Resources](https://github.com/Meow-pilli/Interview-Prep/tree/main?tab=readme-ov-file#some-challenging-interview-questions)
 
 #### [Design Verification](https://github.com/Meow-pilli/Interview-Prep/tree/main?tab=readme-ov-file#design-verification-1)
 
-- [Topics covered](https://github.com/Meow-pilli/Interview-Prep/tree/main?tab=readme-ov-file#topics-covered-1)
-- [Some“gotchas”](https://github.com/Meow-pilli/Interview-Prep/tree/main?tab=readme-ov-file#some-gotchas-1)
-- [Some challenging interview questions](https://github.com/Meow-pilli/Interview-Prep/tree/main?tab=readme-ov-file#some-challenging-interview-questions-1)
-- [Resources](https://github.com/Meow-pilli/Interview-Prep/tree/main?tab=readme-ov-file#resources-1)
+- [Topics covered](https://github.com/Meow-pilli/Interview-Prep/tree/main?tab=readme-ov-file#design-verification-1)
+- [Some“gotchas”](https://github.com/Meow-pilli/Interview-Prep/tree/main?tab=readme-ov-file#topics-covered-1)
+- [Some challenging interview questions](https://github.com/Meow-pilli/Interview-Prep/tree/main?tab=readme-ov-file#some-gotchas-1)
+- [Resources](https://github.com/Meow-pilli/Interview-Prep/tree/main?tab=readme-ov-file#some-challenging-interview-questions-1)
 
-#### [Architecture / Performance modeling](https://github.com/Meow-pilli/Interview-Prep/tree/main?tab=readme-ov-file#architecture--performance-modeling-1)
+#### [Architecture / Performance modeling](https://github.com/Meow-pilli/Interview-Prep/tree/main?tab=readme-ov-file#resources-1)
 
-- [Topics covered](https://github.com/Meow-pilli/Interview-Prep/tree/main?tab=readme-ov-file#topics-covered-2)
+- [Topics covered](https://github.com/Meow-pilli/Interview-Prep/tree/main?tab=readme-ov-file#architecture--performance-modeling-1)
 - [Some “gotchas”](https://github.com/Meow-pilli/Interview-Prep/tree/main?tab=readme-ov-file#some-gotchas-2)
-- [Some challenging interview questions](https://github.com/Meow-pilli/Interview-Prep/tree/main?tab=readme-ov-file#some-challenging-interview-questions-2)
-- [Resources](https://github.com/Meow-pilli/Interview-Prep/tree/main?tab=readme-ov-file#resources-2)
+- [Some challenging interview questions](https://github.com/Meow-pilli/Interview-Prep/tree/main?tab=readme-ov-file#some-gotchas-2)
+- [Resources](https://github.com/Meow-pilli/Interview-Prep/tree/main?tab=readme-ov-file#some-challenging-interview-questions-2)
 
 #### [Some company specific insights](https://github.com/Meow-pilli/Interview-Prep/tree/main?tab=readme-ov-file#some-company-specific-insights-1)
 
