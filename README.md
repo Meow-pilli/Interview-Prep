@@ -28,7 +28,7 @@
 #### [Some company specific insights](https://github.com/Meow-pilli/Interview-Prep/tree/main?tab=readme-ov-file#some-company-specific-insights-1)
 
 Just a disclaimer - like every other interview preparation resource, this is not exhaustive. Use
-this as a guide, but try to come up with customized plans for yourself. 
+this as a guide, but try to come up with customized plans for yourself.
 
 ## Who is this for
 
@@ -160,6 +160,8 @@ Verilog basics practice (“leetcode for Verilog”) -https://hdlbits.01xz.net/w
 
 Free verilog/system verilog simulation tool -https://www.edaplayground.com/- You can write
 your own designs and testbenches for practice here
+
+Try solving these interview questions - https://chipdev.io/
 
 Some good coding guidelines -RTL_coding_guidelines
 
